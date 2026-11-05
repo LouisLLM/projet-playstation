@@ -1,0 +1,65 @@
+    <footer>
+        <div>
+            <img src="logo-playstation-blanc.svg">
+        </div>
+        <div class="liste_footer">
+            <div class="informations_générales">
+                <span>Infos</span>
+                <ul>
+                    <li>A propos de SIE</li>
+                    <li>Carrières</li>
+                    <li>PlayStation Studio</li>
+                    <li>L'histoire de PlayStation</li>
+                </ul>
+            </div>
+            <div class="informations_générales">
+                <span>Produits</span>
+                <ul>
+                    <li>PS5</li>
+                    <li>PS Plus</li>
+                    <li>Accessoires</li>
+                    <li>Jeux</li>
+                </ul>
+            </div>
+            <div class="informations_générales">
+                <span>Assistance</span>
+                <ul>
+                    <li>Page d'accueil de l'Assistance</li>
+                    <li>état de la commande</li>
+                    <li>Réinitialiser le mot de passe</li>
+                    <li>Demande de rembouresement</li>
+                </ul>
+            </div>
+            <div class="informations_générales">
+                <span>Ressources</span>
+                <ul>
+                    <li>Conditions d'utilisations</li>
+                    <li>Classifications par âge</li>
+                    <li>Avertissemants relatifs à la santé</li>
+                </ul>
+            </div>
+            <div class="informations_générales">
+                <span>Suivez-nous</span>
+                <div class="réseaux">
+                    <img src="icone-facebook.svg">
+                    <img src="icone-x.svg">
+                    <img src="icone-instagram.svg">
+                    <img src="icone-youtube.svg">
+                </div>
+            </div>
+        <div>
+            <img src="logo-sie.svg" height="50px" width="250px">
+            <p>© 2026 Sony Interactive Entertainment Europe Limited (SIEE)
+Tous les contenus, titres de jeux, noms commerciaux et/ou habillage commercial, marques déposées, illustrations et images associées sont des marques déposées et/ou la propriété en droit d'auteur de leurs propriétaires respectifs. Tous droits réservés.</p>
+        </div>
+        <div class="législation">
+            <span>France</span>
+            <div class="politiques">
+                <span>Mentions juridiques</span>
+                <span>Politique de confidentialité</span>
+                <span>Conditions d'utilisation du site web</span>
+                <span>Plan su site</span>
+                <span>Politique d'utilisation des cookies</span>
+            </div>
+        </div>
+    </footer>
